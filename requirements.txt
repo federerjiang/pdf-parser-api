@@ -1,0 +1,9 @@
+marker-pdf==1.6.2
+fastapi==0.115.6
+uvicorn==0.34.0
+pydantic==2.10.5
+python-multipart==0.0.20
+pillow==10.4.0
+pytesseract==0.3.13
+poppler-utils==0.1.0
+python-magic==0.4.27

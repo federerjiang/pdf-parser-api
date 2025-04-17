@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# 测试
+.pytest_cache/
+.coverage
+
+# IDE
+.idea/
+.vscode/
+
+# 临时文件
+*.log
+*.tmp
+.DS_Store
+
+# 文档
+LICENSE
+*.md
+!README.md 

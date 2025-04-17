@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+htmlcov/
+
+# 虚拟环境
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 日志和临时文件
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+logs/
+
+# 测试相关
+tests/performance_results.txt
+tests/example.pdf
+
+# 数据目录
+data/
+
+# Docker相关
+.docker/
+
+# 其他
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover 

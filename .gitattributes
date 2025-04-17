@@ -1,0 +1,32 @@
+# 自动检测文本文件并执行行尾标准化
+* text=auto
+
+# 定义文本文件类型
+*.py text
+*.md text
+*.txt text
+*.html text
+*.css text
+*.js text
+*.json text
+*.yml text
+*.yaml text
+*.toml text
+*.ini text
+*.cfg text
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# 定义二进制文件类型
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.ttf binary
+*.woff binary
+*.woff2 binary 
